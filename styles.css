@@ -10,26 +10,52 @@
 
 #img-div {
     background-color: white;
-    height:;
+    height:auto;
     margin:15px;
     padding:15px;
 }
-
+#un-list{
+    text-align: left;
+    margin: 5px;
+    font-size: 25px;
+    padding:5px 350px 2px;
+    font-style: Helvetica Neue;
+}
+#tribute-info{
+    padding-top: 50px;
+}
 #img-caption {
     font-size: 20px;
 }
-
-h1 {
-    font-size: 4rem;
-    margin-bottom: 0;
+#quote{
+    text-align: left;
+    padding-left: 370px;
+    padding-right: 350px;
+    font-size: 18px;
+}
+#pm{
+    text-align: left;
+    padding-left: 370px;
+    padding-right: 350px;
+    font-size: 15px;
+}
+.leet{
+    font-size: 20px;
+    padding: 30px 250px 50px;
+    margin:25px;
+}
+a{
+    color:#477ca7;
+    text-decoration: none;
 }
 
 h1 {
     display: block;
-    font-size: 2em;
+    font-size: 3rem;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    padding-top: 50px;
 }
