@@ -3,12 +3,13 @@
     background: #eee;
 }
 
-#img{
+#image{
     max-width: 100%;
     height: auto; 
+    display:block;
 }
 
-#img-div {
+#img-caption {
     background-color: white;
     height:auto;
     margin:15px;
