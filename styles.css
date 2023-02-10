@@ -1,9 +1,22 @@
 #main{
     text-align: center;
+    background: #eee;
 }
 
-#img-div{
+#img{
+    max-width: 100%;
+    height: auto; 
+}
 
+#img-div {
+    background-color: white;
+    height:;
+    margin:15px;
+    padding:15px;
+}
+
+#img-caption {
+    font-size: 20px;
 }
 
 h1 {
